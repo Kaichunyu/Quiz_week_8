@@ -13,4 +13,8 @@ git commit -m "updated climate_q1.py"
 
 git push
 
+git add . 
 
+git commit -m "updated climate_q2.py and result figure"
+
+git push
